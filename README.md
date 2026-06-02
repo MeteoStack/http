@@ -1,2 +1,2 @@
-# http
-MeteoStack's HTTP server
+# MeteoStack HTTP (MSHTTP)
+MeteoStack's HTTP server.
